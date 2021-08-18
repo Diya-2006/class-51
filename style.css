@@ -1,0 +1,23 @@
+h1{
+    color: #ffffff;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+.header{
+    display:flex;
+    background-color:cadetblue;
+    justify-content:space-between ;
+}
+.grid{
+   display:flex;
+   flex-wrap:wrap ; 
+   justify-content: space-evenly;
+}
+p,h2 {
+    font-family: 'Times New Roman', Times, serif;
+text-align: center;
+color: #000000;
+}
+body {
+    background-color: rgb(200, 200, 200)
+}
